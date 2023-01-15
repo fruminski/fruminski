@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Filip
 - 👀 I’m interested in music, coding and science fiction.
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on any project that's good for a rookie
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on any project that's good for a junior developer
 - 📫 How to reach me: fruminski@gmail.com
 
 <!---
