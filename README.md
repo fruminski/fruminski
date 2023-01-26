@@ -24,7 +24,7 @@
 
 
 
-- ⚡ Fun fact **I sing in a rock/metal band 🤘**
+- ⚡ Fun fact **I sing in a rock/metal band Silentmen 🤘**
 
 
 
