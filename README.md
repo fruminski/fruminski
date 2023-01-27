@@ -24,7 +24,7 @@
 
 
 
-- ⚡ Fun fact **I sing in a rock/metal band Silentmen 🤘**
+- ⚡ Fun fact **When I'm not coding, I sing in a metal band - Silentmen https://www.youtube.com/watch?v=IXS4GeidDsI 🤘**
 
 
 
